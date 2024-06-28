@@ -1,6 +1,6 @@
 # JavaScript Challenges
 
-This repository contains a set of basic JavaScript challenges. These challenges are designed to help beginners practice and improve their understanding of JavaScript. Below is a description of each challenge.
+This repository contains a set of basic JavaScript challenges. For each challenge, write the pseudocode before implementing the solution. The pseudocode should outline the logical steps required to solve the problem.
 
 ## Challenge 1: Reverse a String
 
