@@ -4,12 +4,12 @@ This repository contains a set of basic JavaScript challenges. For each challeng
 
 ## Challenge 1: Reverse a String
 
+### Task
+Write a function that takes a string as input and returns the string reversed.
+
 ### Example
 **Input:** `"hello"`  
 **Output:** `"olleh"`
-
-### Task
-Write a function that takes a string as input and returns the string reversed.
 
 ## Challenge 2: Check for Palindrome
 
